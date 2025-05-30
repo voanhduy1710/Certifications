@@ -1,9 +1,15 @@
 # 📜 Certifications
+This repository contains verified certificates I have earned in the field of **Data Analytics** from leading global platforms including Google, IBM, Datacamp and Microsoft.
 
-This repository contains verified certificates I have earned in the field of **Data Analytics** from leading global platforms including Google, IBM, and Microsoft.
 ---
 ## 🧾 Certification List
 ---
+| Skill            | Tool/Platform         | Level         |
+|------------------|------------------------|---------------|
+| Data Cleaning    | Excel, Python, SQL     | Advanced      |
+| Visualization    | Power BI, Excel        | Intermediate  |
+| Data Modeling    | Power BI, PostgreSQL   | Intermediate  |
+| Programming      | Python                 | Learning      |
 
 ## 🖥️ Specific skills
 Excel
