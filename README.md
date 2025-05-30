@@ -1,10 +1,8 @@
 # 📜 Certifications
 This repository contains verified certificates I have earned in the field of **Data Analytics** from leading global platforms including Google, IBM, Datacamp and Microsoft.
 
----
 ## 🧾 Certification List
 
----
 | № | Certificate                                      | Validation Link         |
 |----|--------------------------------------------------|--------------------------|
 | 1  | Google Data Analytics               | https://bit.ly/Google_DA_Pro_Cert_Anh_Duy       |
@@ -14,13 +12,10 @@ This repository contains verified certificates I have earned in the field of **D
 | 5  | Microsoft Power BI Data Analyst  | https://bit.ly/PowerBI_Cert_Anh_Duy   |
 | 6  | Data Analyst Associate Certificate               | https://bit.ly/DA_Associate_Cert       |
 
-
 ## 🖥️ Specific skills
 Excel
 SQL (PostgresSQL)
 PowerBI
-
----
 
 ## 📫 Contact
 
