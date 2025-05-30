@@ -15,10 +15,10 @@ This repository contains verified certificates I have earned in the field of **D
 ## 🖥️ Specific skills used
 
 **Excel:**
-Cleaning: find & replace values, filter, clean NULL values
-Data validation and conditional formatting
-Formulas: VLOOKUP, HLOOKUP, XLOOKUP, INDEXMATCH, contentate, aggregate functions
-Pivot table: pivot charts, Matrix.
++ Cleaning: find & replace values, filter, clean NULL values
++ Data validation and conditional formatting
++ Formulas: VLOOKUP, HLOOKUP, XLOOKUP, INDEXMATCH, contentate, aggregate function
++ Pivot table: pivot charts, Matrix.
 
 **SQL**
 + PostgreSQL: Faster and cleaner than MySQL, SSMS, better UI, other leading global platforms are using (Gitlab, Datacamp, Reddit, TripAdvisor, etc)
