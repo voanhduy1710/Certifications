@@ -3,13 +3,17 @@ This repository contains verified certificates I have earned in the field of **D
 
 ---
 ## 🧾 Certification List
+
 ---
-| Skill            | Tool/Platform         | Level         |
-|------------------|------------------------|---------------|
-| Data Cleaning    | Excel, Python, SQL     | Advanced      |
-| Visualization    | Power BI, Excel        | Intermediate  |
-| Data Modeling    | Power BI, PostgreSQL   | Intermediate  |
-| Programming      | Python                 | Learning      |
+| № | Certificate                                      | Validation Link         |
+|----|--------------------------------------------------|--------------------------|
+| 1  | Google Data Analytics Certificate               | https://bit.ly/Google_DA_Pro_Cert_Anh_Duy       |
+| 2  | Google Advanced Data Analytics Certificate       | https://bit.ly/Google_DA_Advanced_Cert_Duy        |
+| 3  | IBM Data Analyst Certificate                     | https://bit.ly/IBM_DA_Prof_Cert_Anh_Duy       |
+| 4  | Associate Data Analyst in SQL                    | https://bit.ly/DA_Associate_Cert        |
+| 5  | Microsoft Power BI Data Analyst Certificate  | https://bit.ly/PowerBI_Cert_Anh_Duy   |
+| 6  | Data Analyst Associate Certificate               | https://bit.ly/DA_Associate_Cert       |
+
 
 ## 🖥️ Specific skills
 Excel
