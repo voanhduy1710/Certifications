@@ -39,7 +39,7 @@ This repository contains verified certificates I have earned in the field of **D
 + Slicers, Buttons, Bookmarks, Navigator
 + Field Parameters, Group and Binning
 
-**PowerBI:**(In progress)
+**Python:**(Currently in progress)
 + Consolidate and analyze multiple large csv files
 + API and Webscraping
 + Machine learning
