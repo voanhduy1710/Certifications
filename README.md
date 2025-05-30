@@ -17,7 +17,7 @@ Excel
 SQL (PostgresSQL)
 PowerBI
 
-## 📫 Contact
+## 📞 Contact
 
-- **Word phone:** +84 559982489
+- **Work phone:** +84 559982489
 - **Email:** voanhduy1710@gmail.com
