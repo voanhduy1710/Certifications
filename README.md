@@ -12,7 +12,7 @@ This repository contains verified certificates I have earned in the field of **D
 | 5  | Microsoft Power BI Data Analyst  | https://bit.ly/PowerBI_Cert_Anh_Duy   |
 | 6  | Data Analyst Associate Certificate               | https://bit.ly/DA_Associate_Cert       |
 
-## 🖥️ Specific skills
+## 🖥️ Specific skills used
 **Excel:**
 Cleaning: find & replace values, filter, clean NULL values
 Data validation and conditional formatting
