@@ -41,7 +41,7 @@ This repository contains verified certificates I have earned in the field of **D
 + Slicers, Buttons, Bookmarks, Navigator
 + Field Parameters, Group and Binning
 
-**Python:**(Currently in progress)
+**Python:**<u>(Currently in progress)</u>
 + Consolidate and analyze multiple large csv files
 + API and Webscraping
 + Machine learning
