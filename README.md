@@ -5,12 +5,12 @@ This repository contains verified certificates I have earned in the field of **D
 
 | № | Certificate                                       | Status        |
 |---|--------------------------------------------------|--------------------------|
-| 1 | Google Data Analytics                            | [Completed](https://coursera.org/share/3771af72e4ca6be3cd3a10aedbc024ac)       |
-| 2 | Google Advanced Data Analytics                   | [Completed](https://www.coursera.org/account/accomplishments/specialization/certificate/3B7JBC6SXM0R)        |
+| 1 | [Google Data Analytics](https://coursera.org/share/3771af72e4ca6be3cd3a10aedbc024ac)                            | Completed       |
+| 2 | [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/3B7JBC6SXM0R)                   | Completed        |
 | 3 | IBM Professional Data Analyst                    | [Completed](https://coursera.org/verify/professional-cert/WO42JQXIXNWP)       |
-| 4 | Associate Data Analyst in SQL                    | [Completed](https://www.datacamp.com/completed/statement-of-accomplishment/track/ba33fb966f3a47b4908cbcddd706216242b73a16)        |
-| 5 | Microsoft Power BI Data Analyst                  | [Completed](https://coursera.org/verify/professional-cert/UYM8N7BTOF65)   |
-| 6 | Data Analyst Associate Certificate               | [Completed](https://www.datacamp.com/certificate/DAA0013101408680)       |
+| 4 | [Associate Data Analyst in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/ba33fb966f3a47b4908cbcddd706216242b73a16)                    | Completed        |
+| 5 | [Microsoft Power BI Data Analyst](https://coursera.org/verify/professional-cert/UYM8N7BTOF65)                  | Completed   |
+| 6 | [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0013101408680)               | Completed      |
 | 7 | Data Analyst In Python                           | In progress       |
 | 8 | IBM Professional Data Engineer                   | In progress       |
 
