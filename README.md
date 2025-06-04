@@ -14,7 +14,7 @@ This repository contains verified certificates I have earned in the field of **D
 | 7 | Data Analyst In Python                           | In progress       |
 | 8 | IBM Professional Data Engineer                   | In progress       |
 
-## 🖥️ Specific skills used
+## 🖥️ Specific skills acquired
 
 **Excel:**
 + Cleaning: find & replace values, filter, clean NULL values
