@@ -1,4 +1,4 @@
-# 📜 Certifications
+#  Certifications
 This repository contains verified certificates I have earned in the field of **Data Analytics** from leading global platforms including Google, IBM, Datacamp and Microsoft.
 
 ## 🧾 Certification List
@@ -11,10 +11,10 @@ This repository contains verified certificates I have earned in the field of **D
 | 4 | [Associate Data Analyst in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/ba33fb966f3a47b4908cbcddd706216242b73a16)                    | Completed        |
 | 5 | [Microsoft Power BI Data Analyst](https://coursera.org/verify/professional-cert/UYM8N7BTOF65)                  | Completed   |
 | 6 | [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0013101408680)               | Completed      |
-| 7 | Data Analyst In Python                           | In progress       |
+| 7 | [Data Analyst In Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/947180b5544a48e6faf21236f128bbcb34b694f4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)                           | In progress       |
 | 8 | IBM Professional Data Engineer                   | In progress       |
 
-## 🖥️ Specific skills acquired
+## Specific skills acquired
 **Excel:**  
 \+ Cleaning: find & replace values, filter, clean NULL values  
 \+ Data validation and conditional formatting  
@@ -48,7 +48,7 @@ This repository contains verified certificates I have earned in the field of **D
 \+ Advanced statistics analysis.  
 \+ AI machine learning and avoiding AI hallucinations.  
 
-## 📞 Contact
+##  Contact
 
 - **Phone number:** +84 978 987 889
 - **Email:** voanhduy1710@gmail.com
