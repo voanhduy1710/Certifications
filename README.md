@@ -48,7 +48,7 @@ This repository contains verified certificates I have earned in the field of **D
 - Advanced statistics analysis.
 - AI machine learning and avoiding AI hallucinations.
 
-## Contact
+## ✆ Contact
 
 - **Phone number:** +84 978 987 889
 - **Email:** [voanhduy1710@gmail.com](mailto:voanhduy1710@gmail.com)
